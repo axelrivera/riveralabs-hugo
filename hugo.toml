@@ -1,0 +1,73 @@
+baseURL = 'https://riveralabs.com/'
+languageCode = 'en-us'
+title = 'Rivera Labs'
+theme = 'PaperMod'
+copyright = "Rivera Labs LLC"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[params]
+  #env = 'production'
+  env = 'development'
+  defaultTheme = 'dark'
+  disableThemeToggle = true
+  title = 'Rivera Labs'
+  description = 'iOS Development Website & Blog'
+  ShowShareButtons = true
+
+[params.profileMode]
+  enabled = true
+  title = "Hi, I'm Axel :wave:"
+  subtitle = "An indie software developer who loves to make awesome iOS apps."
+  imageUrl = "/img/avatar.png"
+  imageWidth = 256
+  imageHeight = 256
+
+  [[params.profileMode.buttons]]
+    name = "Archive"
+    url = "/archives"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/axelrivera"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/axel-rivera/"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/cycling_coder"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:hello@axelrivera.me"
+
+[[menu.main]]
+identifier = "apps"
+name = "Apps"
+url = "/apps/"
+weight = 10
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 30

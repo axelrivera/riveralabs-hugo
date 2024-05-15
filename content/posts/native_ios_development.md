@@ -16,7 +16,7 @@ Here’s why…
 
 I often hear people debating what’s the best programming language. My answer is the one that you know the best when starting a new a project.
 
-I have a lot of experience with Ruby and Rails, but I avoid mobile apps that require backends for reasons that I’ll discuss later.
+I have a lot of experience with Ruby and Ruby on Rails, but I avoid mobile apps that require backends for reasons that I’ll discuss later.
 
 I think it's OK to experiment with new languages, but regardless of how senior you are, your first app in any language will suck. You don’t know the best practices yet. You don’t know the standard libraries well enough. In fact, you will write your app using another language as a reference point. It will get the job done, but you’ll be ashamed of yourself in the following months.
 
@@ -48,7 +48,7 @@ Here’s my personal reason…
 
 I’m at a point where I have to make choices that will decide the second half of my life.
 
-I’m choosing to prioritize having a simple and flexible lifestyle. Work on things that are important to me. Being able to go for a 4-hour bike ride on a weekday morning.
+I’m choosing to prioritize having a simple and flexible lifestyle: work on things that are important to me, or being able to go for a 4-hour bike ride on a weekday morning.
 
 To reach that goal, I’m learning to do more with less. I’m deciding to prioritize my quality of life over money. Without going into much detail, I don’t pay rent or have a mortgage. That means that my monthly expenses are low, and that gives me options.
 

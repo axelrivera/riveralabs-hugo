@@ -1,0 +1,88 @@
+.icon-text-container {
+    display: flex;
+    align-items: flex-start; /* Align the icon to the top */
+    flex-wrap: wrap; /* Make the layout responsive */
+}
+
+.icon-text-container .icon {
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+    margin-right: 2em;
+    border-radius: 20px; /* Adjust as needed for rounded corners */
+    flex-shrink: 0; /* Prevent the icon from shrinking */
+}
+
+.icon-text-container .text-content {
+    flex: 1;
+    min-width: 200px; /* Ensure text has enough space, adjust as needed */
+}
+
+.ride-import-container {
+    margin: 0 auto;
+}
+
+.app-description {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.download-buttons {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.download-buttons a {
+    display: inline-block;
+    border: none;
+    box-shadow: none;
+}
+
+.download-buttons a img {
+    height: 60px;
+    padding: 0px;
+    border: none;
+    margin: 0px;
+    box-shadow: none;
+}
+
+.screenshots {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.screenshots img {
+    max-width: 30%;
+    margin: 10px;
+}
+
+@media (max-width: 600px) {
+    .icon-text-container {
+        flex-direction: column; /* Stack the icon and text vertically */
+        align-items: center; /* Center align the icon and text */
+    }
+
+    .icon-text-container .icon {
+        margin-right: 0; /* Remove right margin */
+        margin-bottom: 10px; /* Add bottom margin */
+    }
+
+    .icon-text-container .text-content {
+        min-width: 100%; /* Ensure full width for text on small screens */
+        text-align: center; /* Center align the text */
+    }
+
+    .screenshots {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .screenshots img {
+        max-width: 80%;
+        margin: 1rem 0;
+    }
+}
+
+

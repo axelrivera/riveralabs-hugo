@@ -18,6 +18,6 @@ Follow these steps to download a FIT file from the Wahoo ELEMNT Companion iOS ap
 
 ## Screenshots
 
-![Screenshot 1](wahoo1.png)
+![Screenshot 1](/img/tutorials/wahoo1.png)
 
-![Screenshot 2](wahoo2.png)
+![Screenshot 2](/img/tutorials/wahoo2.png)

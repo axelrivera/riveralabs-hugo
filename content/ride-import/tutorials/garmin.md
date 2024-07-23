@@ -30,8 +30,8 @@ Login to [connect.garmin.com]("https://connect.garmin.com") from Safari.
 
 ## Screenshots
 
-![Screenshot 1](garmin1.png)
+![Screenshot 1](/img/tutorials/garmin1.png)
 
-![Screenshot 2](garmin2.png)
+![Screenshot 2](/img/tutorials/garmin2.png)
 
-![Screenshot 3](garmin3.png)
+![Screenshot 3](/img/tutorials/garmin3.png)

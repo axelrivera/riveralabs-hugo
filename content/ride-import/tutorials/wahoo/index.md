@@ -1,6 +1,7 @@
 +++
 title = 'Wahoo: Download FIT File'
 disableShare = true
+layout = 'single'
 +++
 
 Follow these steps to download a FIT file from the Wahoo ELEMNT Companion iOS app.

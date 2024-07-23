@@ -1,7 +1,7 @@
 +++
 title = 'Ride Import Privacy Policy'
-draft = false
 disableShare = true
+draft = false
 +++
 
 **Effective Date:** July 22, 2024

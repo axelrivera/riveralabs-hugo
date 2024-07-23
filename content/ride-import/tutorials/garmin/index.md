@@ -1,6 +1,7 @@
 +++
 title = 'Garmin: Download FIT File'
 disableShare = true
+layout = 'single'
 +++
 
 Follow these steps to download a FIT file from Garmin Connect's website.

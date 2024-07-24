@@ -7,7 +7,7 @@ layout = 'single'
 Ride Import allows users to preview and manually import cycling workouts to the Health app including samples + data including
 distance, heart rate, speed, cycling cadence, power, route, elevation, and weather conditions.
 
-{{< ride-import-landing screenshot1="screenshot1.png" screenshot2="screenshot2.png" screenshot3="screenshot3.png" >}}
+{{< ride-import-landing screenshot1="/img/ride-import/screenshot1.png" screenshot2="/img/ride-import/screenshot2.png" screenshot3="/img/ride-import/screenshot3.png" >}}
 
 ## Support
 

@@ -1,4 +1,7 @@
 <div class="icon-text-container">
     <img src="{{ .Get "icon" }}" alt="{{ .Get "alt" }}" class="icon">
-    <div class="text-content">{{ .Inner | markdownify }}</div>
+    <div class="text-content">
+        <h2 class="text-title">{{ .Get "title" }}</h2>
+        {{ .Inner | markdownify }}
+    </div>
 </div>

@@ -1,7 +1,8 @@
 .icon-text-container {
     display: flex;
-    align-items: flex-start; /* Align the icon to the top */
+    align-items: center; /* Align the icon to the top */
     flex-wrap: wrap; /* Make the layout responsive */
+    margin-bottom: 1em;
 }
 
 .icon-text-container .icon {
@@ -12,6 +13,10 @@
     margin-right: 2em;
     border-radius: 20px; /* Adjust as needed for rounded corners */
     flex-shrink: 0; /* Prevent the icon from shrinking */
+}
+
+.icon-text-container .text-title {
+    text-align: left;
 }
 
 .icon-text-container .text-content {
@@ -67,6 +72,10 @@
     .icon-text-container .icon {
         margin-right: 0; /* Remove right margin */
         margin-bottom: 10px; /* Add bottom margin */
+    }
+
+    .icon-text-container .text-title {
+        text-align: center;
     }
 
     .icon-text-container .text-content {

@@ -2,7 +2,6 @@
     display: flex;
     align-items: center; /* Align the icon to the top */
     flex-wrap: wrap; /* Make the layout responsive */
-    margin-bottom: 1em;
 }
 
 .icon-text-container .icon {
@@ -67,6 +66,7 @@
     .icon-text-container {
         flex-direction: column; /* Stack the icon and text vertically */
         align-items: center; /* Center align the icon and text */
+        margin-top: 2em;
     }
 
     .icon-text-container .icon {

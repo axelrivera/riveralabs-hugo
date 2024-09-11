@@ -23,6 +23,10 @@
     min-width: 200px; /* Ensure text has enough space, adjust as needed */
 }
 
+.app-screenshot-container {
+    margin: 0 auto;
+}
+
 .ride-import-container {
     margin: 0 auto;
 }

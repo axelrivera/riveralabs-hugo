@@ -6,6 +6,12 @@ disableShare = true
 My approach to indie development is to focus on apps related to my own hobbies and activities. Here's a
 list of my current apps published on the App Store.
 
+{{< icon-text title="Active Goals" icon="/img/active_goals_icon.png" alt="Ride Import Icon" >}}
+Keep track of goals for distance, duration, workouts, elevation and calories in weekly, monthly and yearly timeframes.
+
+[Additional Information](/active-goals/)
+{{< /icon-text >}}
+
 {{< icon-text title="Apollo Weather" icon="/img/apollo_icon.png" alt="Apollo Weather Icon" >}}
 Apollo Weather is the go-to weather app for cyclists, runners and other endurance athletes.
 

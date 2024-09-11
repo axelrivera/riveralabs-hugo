@@ -38,9 +38,9 @@ enableEmoji = true
   imageWidth = 256
   imageHeight = 256
 
-  [[params.profileMode.buttons]]
-    name = "Archive"
-    url = "/archives"
+  # [[params.profileMode.buttons]]
+  #   name = "Archive"
+  #   url = "/archive"
 
 [[params.socialIcons]]
   name = "github"

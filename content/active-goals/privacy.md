@@ -18,7 +18,7 @@ Active Goals requests permission to read Apple Health data for the following pur
 
 ## Data Handling
 
-All Apple Health data accessed by Ride Import is used solely within the app on your device and is not transmitted elsewhere.
+All Apple Health data accessed by Active Goals is used solely within the app on your device and is not transmitted elsewhere.
 
 ## Changes to this Policy
 

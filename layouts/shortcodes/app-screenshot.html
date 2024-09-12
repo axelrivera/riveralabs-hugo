@@ -1,14 +1,5 @@
 <div class="app-screenshot-container">
-    <div class="download-buttons">
-    {{ with .Get "appstore_url"}}
-    <a href="{{ . }}">
-        <img src="/img/appstore_badge.png" alt="Download on the App Store" style="height: 60px;">
-    </a>
-    {{ end }}
-    </div>
-    <div class="">
-        {{ with .Get "screenshot" }}
-        <img src="{{ . }}" alt="App Screenshot">
-        {{ end }}
+    <div>
+        <img src='{{ .Get "screenshot" }}' alt="App Screenshot">
     </div>
 </div>

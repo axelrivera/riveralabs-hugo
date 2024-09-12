@@ -19,8 +19,8 @@ Apollo Weather is the go-to weather app for cyclists, runners and other enduranc
 {{< /icon-text >}}
 
 {{< icon-text title="Ride Import" icon="/img/ride_import_icon.png" alt="Ride Import Icon" >}}
-Import cycling workouts from a cycling computer like a Garmin or Wahoo to Apple Health. Imported workouts include all
-samples + data including distance, heart rate, cycling cadence, power, route, elevation, and weather conditions.
+Preview and manually import cycling workout data to the Health app including
+distance, heart rate, speed, cycling cadence, power, route, elevation, and weather conditions.
 
 [Additional Information](/ride-import/)
 {{< /icon-text >}}

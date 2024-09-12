@@ -25,6 +25,7 @@
 
 .app-screenshot-container {
     margin: 0 auto;
+    margin-top: 3em;
 }
 
 .ride-import-container {
@@ -36,18 +37,11 @@
     margin-bottom: 2rem;
 }
 
-.download-buttons {
-    text-align: center;
-    margin-bottom: 2rem;
+.appstore-badge {
+    margin-top: 1em;
 }
 
-.download-buttons a {
-    display: inline-block;
-    border: none;
-    box-shadow: none;
-}
-
-.download-buttons a img {
+.appstore-badge a img {
     height: 60px;
     padding: 0px;
     border: none;
@@ -95,6 +89,12 @@
     .screenshots img {
         max-width: 80%;
         margin: 1rem 0;
+    }
+
+    .appstore-badge a {
+        display: inline-block;
+        border: none;
+        box-shadow: none;
     }
 }
 
